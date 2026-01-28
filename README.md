@@ -143,6 +143,6 @@ These insights enhance transparency and support targeted insurance strategies.
 
 ## Authors
 
-Aarushi Rawal,
+Aarushi Rawal
 
 Sahaj Kapoor
