@@ -143,8 +143,5 @@ These insights enhance transparency and support targeted insurance strategies.
 
 ## Authors
 
-**Aarushi Rawal**
-**Sahaj Kapoor**
----
-
-⭐ *If this project helped you, feel free to give it a star!*
+Aarushi Rawal
+Sahaj Kapoor
